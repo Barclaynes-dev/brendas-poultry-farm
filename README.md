@@ -79,5 +79,3 @@ The project follows the **Iterative Development Model**. This approach allows th
 **Organisation:** Brenda's Poultry Farm
 
 **Location:** Muyenga, Kampala, Uganda
-
-**Course:**
