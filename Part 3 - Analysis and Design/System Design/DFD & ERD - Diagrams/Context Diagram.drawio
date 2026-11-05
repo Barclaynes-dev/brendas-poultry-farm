@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="lajxeQaGY2n3NJq0dmsO">
+    <mxGraphModel dx="746" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" value="0. Egg Production&lt;br&gt;Tracking System" vertex="1">
+          <mxGeometry height="130" width="130" x="315" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Record-Keeping&lt;br&gt;Worker" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" value="Farm Owner&lt;br&gt;(Brenda)" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-6" edge="1" parent="1" source="0KdkYUZ4DutJSAZDTAhV-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="0KdkYUZ4DutJSAZDTAhV-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-7" edge="1" parent="1" source="0KdkYUZ4DutJSAZDTAhV-2" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="0KdkYUZ4DutJSAZDTAhV-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="180" y="200" as="sourcePoint" />
+            <mxPoint x="230" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-8" edge="1" parent="1" source="0KdkYUZ4DutJSAZDTAhV-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="0KdkYUZ4DutJSAZDTAhV-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="200" as="sourcePoint" />
+            <mxPoint x="530" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-9" edge="1" parent="1" source="0KdkYUZ4DutJSAZDTAhV-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=gap;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="0KdkYUZ4DutJSAZDTAhV-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440" y="300" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Date, intact Egg Count, Damaged Egg Count&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="135" x="170" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Save Confirmation, Recorded production figures&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="155" x="160" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Daily and weekly totals, Production Records&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="445" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0KdkYUZ4DutJSAZDTAhV-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Request Production Records and Daily/weekly Reports&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="170" x="450" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
